@@ -30,4 +30,27 @@ Este projeto é um aplicativo simples desenvolvido em **Kotlin** para Android, c
 
 ---
 
-Este é um excelente exemplo de como usar o Jetpack Compose para criar uma aplicação de interface gráfica moderna, explorando recursos de gerenciamento de estado em Kotlin e desenvolvimento Android.
+## 🖼️ Telas do Aplicativo
+
+### Prints das Imagens Ajustadas
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c6f629d5-b77c-4d7c-8ec9-eb7d5c3ab5a6" alt="Tela Filme de Ficção Científica" width="300">
+      <p><strong>Filme de Ficção Científica</strong></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a9dd9e8a-3b7a-4280-95f6-c371ccecae15" alt="Tela Filme Suspense" width="300">
+      <p><strong>Filme Suspense</strong></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/91d97db0-62e4-41d7-9927-530e7d0e1036" alt="Tela Filme Comédia" width="300">
+      <p><strong>Filme Comédia</strong></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+
