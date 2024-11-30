@@ -53,4 +53,9 @@ Este projeto é um aplicativo simples desenvolvido em **Kotlin** para Android, c
 
 ---
 
+## 🤝 Contribuições
+
+Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir um pull request ou sugerir melhorias.
+
+---
 
