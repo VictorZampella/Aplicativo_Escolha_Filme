@@ -37,21 +37,24 @@ Este projeto é um aplicativo simples desenvolvido em **Kotlin** para Android, c
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/c6f629d5-b77c-4d7c-8ec9-eb7d5c3ab5a6" alt="Tela Filme de Ficção Científica" width="300">
+      <img src="https://github.com/user-attachments/assets/22082cd2-1313-4da4-baf3-4357fca96e5e" alt="Tela Filme de Ficção Científica" width="300">
       <p><strong>Filme de Ficção Científica</strong></p>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/a9dd9e8a-3b7a-4280-95f6-c371ccecae15" alt="Tela Filme Suspense" width="300">
+      <img src="https://github.com/user-attachments/assets/8de8a2c3-6310-4e2e-83fc-e7bd8948b483" alt="Tela Filme Suspense" width="300">
       <p><strong>Filme Suspense</strong></p>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/91d97db0-62e4-41d7-9927-530e7d0e1036" alt="Tela Filme Comédia" width="300">
+      <img src="https://github.com/user-attachments/assets/bd2072e4-b9ec-49a1-ac6e-e73da24b7a0b" alt="Tela Filme Comédia" width="300">
       <p><strong>Filme Comédia</strong></p>
     </td>
   </tr>
 </table>
 
 ---
+
+
+
 
 ## 🤝 Contribuições
 
